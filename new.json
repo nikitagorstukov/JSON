@@ -1,6 +1,6 @@
 {
-'name' : 'Nikita',
-'[Afirst name" = 'Nikita',[B[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[Dlast name' ['[B[D[C= 'Gorstukov',
-'number of pets' : 0,[A[D[D[D[D[D[D[D[:[A[3~:[B[B[C[C[C[C[C[C[C
-'dream salary' : 100000$[D[D[D[D[D[D[D'100000$';
+          "first_name" : "Nikita", 
+          "last_name" : "Gorstukov",
+          "number_of_pets" : 0,
+          "dream_salary" : "100000$"
 }
